@@ -1,8 +1,8 @@
 dataingestion:
-  test_size : 0.2
+  test_size : 0.3
 
 featureengineering:
-  max_features : 50
+  max_features : 60
 
 modelbuilding:
   n_estimators : 100
